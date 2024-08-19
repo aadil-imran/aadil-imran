@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @aadil-imran
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning DNN
-- 💞️ I’m looking to collaborate on DNN
 - 📫 How to reach me adiimranmalik@gmail.com
 
 <!---
